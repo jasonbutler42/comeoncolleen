@@ -1,4 +1,4 @@
-# Contributing to GrillinFools
+# Contributing to ComeOnColleen
 
 ## Using the issue tracker
 
