@@ -48,11 +48,11 @@
     "fancyguy/webroot-installer": "1.1.0",
     "composer/installers": "v1.0.12",
     "vlucas/phpdotenv": "~1.0.6",
-    "wpackagist-plugin/advanced-responsive-video-embedder": "5.3.3",
+    "wpackagist-plugin/advanced-responsive-video-embedder": "5.3.4",
     "wpackagist-plugin/akismet": "3.1.1",
     "wpackagist-plugin/all-in-one-seo-pack": "2.2.6.1",
-    "wpackagist-plugin/all-in-one-wp-security-and-firewall": "v3.9.0",
     "wpackagist-plugin/ap-honeypot": "1.4",
+    "wpackagist-plugin/blogger-importer": "0.7",
     "wpackagist-plugin/broken-link-checker": "1.10.4",
     "wpackagist-plugin/go-newrelic": "0.3",
     "wpackagist-plugin/honeypot-comments": "1.1.0",
@@ -68,7 +68,7 @@
     "wpackagist-plugin/ultimate-posts-widget": "2.0.3",
     "wpackagist-plugin/w3-total-cache": "0.9.4.1",
     "wpackagist-plugin/wordpress-importer": "0.6.1",
-    "wpackagist-plugin/wordfence": "5.3.8"
+    "wpackagist-plugin/wordfence": "5.3.11"
   },
   "extra": {
     "installer-paths": {

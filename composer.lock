@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "7e4c1018bdfa09453a89c5e74f78f7d5",
+    "hash": "97e251f8b1c8a691145d36fda0a7dbf8",
     "packages": [
         {
             "name": "composer/installers",
@@ -240,7 +240,7 @@
         },
         {
             "name": "wpackagist-plugin/advanced-responsive-video-embedder",
-            "version": "5.3.3",
+            "version": "5.3.4",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/advanced-responsive-video-embedder/",
@@ -248,7 +248,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/advanced-responsive-video-embedder.zip",
+                "url": "https://downloads.wordpress.org/plugin/advanced-responsive-video-embedder.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -299,26 +299,6 @@
             "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/"
         },
         {
-            "name": "wpackagist-plugin/all-in-one-wp-security-and-firewall",
-            "version": "v3.9.0",
-            "source": {
-                "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/all-in-one-wp-security-and-firewall/",
-                "reference": "trunk"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/all-in-one-wp-security-and-firewall.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/"
-        },
-        {
             "name": "wpackagist-plugin/ap-honeypot",
             "version": "1.4",
             "source": {
@@ -340,6 +320,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "http://wordpress.org/plugins/ap-honeypot/"
+        },
+        {
+            "name": "wpackagist-plugin/blogger-importer",
+            "version": "0.7",
+            "source": {
+                "type": "svn",
+                "url": "http://plugins.svn.wordpress.org/blogger-importer/",
+                "reference": "tags/0.7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/blogger-importer.0.7.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/blogger-importer/"
         },
         {
             "name": "wpackagist-plugin/broken-link-checker",
@@ -618,15 +618,15 @@
         },
         {
             "name": "wpackagist-plugin/wordfence",
-            "version": "5.3.8",
+            "version": "5.3.11",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/wordfence/",
-                "reference": "tags/5.3.8"
+                "reference": "tags/5.3.11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordfence.5.3.8.zip",
+                "url": "https://downloads.wordpress.org/plugin/wordfence.5.3.11.zip",
                 "reference": null,
                 "shasum": null
             },
