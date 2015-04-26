@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "97e251f8b1c8a691145d36fda0a7dbf8",
+    "hash": "fcda9720d02e0830d47ae74577d507fe",
     "packages": [
         {
             "name": "composer/installers",
@@ -226,10 +226,10 @@
         },
         {
             "name": "wordpress/wordpress",
-            "version": "4.1.1",
+            "version": "4.2",
             "dist": {
                 "type": "zip",
-                "url": "https://wordpress.org/wordpress-4.1.1.zip",
+                "url": "https://wordpress.org/wordpress-4.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -280,15 +280,15 @@
         },
         {
             "name": "wpackagist-plugin/all-in-one-seo-pack",
-            "version": "2.2.6.1",
+            "version": "2.2.6.2",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/all-in-one-seo-pack/",
-                "reference": "tags/2.2.6.1"
+                "reference": "tags/2.2.6.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/all-in-one-seo-pack.2.2.6.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/all-in-one-seo-pack.2.2.6.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -343,15 +343,15 @@
         },
         {
             "name": "wpackagist-plugin/broken-link-checker",
-            "version": "1.10.4",
+            "version": "1.10.7",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/broken-link-checker/",
-                "reference": "tags/1.10.4"
+                "reference": "tags/1.10.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/broken-link-checker.1.10.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/broken-link-checker.1.10.7.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -426,15 +426,15 @@
         },
         {
             "name": "wpackagist-plugin/jetpack",
-            "version": "3.4.1",
+            "version": "3.5",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/jetpack/",
-                "reference": "tags/3.4.1"
+                "reference": "tags/3.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jetpack.3.4.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/jetpack.3.5.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -489,15 +489,15 @@
         },
         {
             "name": "wpackagist-plugin/raw-html",
-            "version": "1.4.14",
+            "version": "1.4.15",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/raw-html/",
-                "reference": "tags/1.4.14"
+                "reference": "tags/1.4.15"
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/raw-html.1.4.14.zip",
+                "url": "https://downloads.wordpress.org/plugin/raw-html.1.4.15.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -505,7 +505,7 @@
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "http://wordpress.org/plugins/raw-html/"
+            "homepage": "https://wordpress.org/plugins/raw-html/"
         },
         {
             "name": "wpackagist-plugin/remove-image-links",
@@ -555,15 +555,15 @@
         },
         {
             "name": "wpackagist-plugin/subscribe-to-comments-reloaded",
-            "version": 150207,
+            "version": 150422,
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/subscribe-to-comments-reloaded/",
-                "reference": "tags/150207"
+                "reference": "tags/150422"
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/subscribe-to-comments-reloaded.150207.zip",
+                "url": "https://downloads.wordpress.org/plugin/subscribe-to-comments-reloaded.150422.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -618,15 +618,15 @@
         },
         {
             "name": "wpackagist-plugin/wordfence",
-            "version": "5.3.11",
+            "version": "5.3.12",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/wordfence/",
-                "reference": "tags/5.3.11"
+                "reference": "tags/5.3.12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordfence.5.3.11.zip",
+                "url": "https://downloads.wordpress.org/plugin/wordfence.5.3.12.zip",
                 "reference": null,
                 "shasum": null
             },
